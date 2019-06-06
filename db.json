@@ -1,8 +1,8 @@
 {
   "leagues": [
-    { "id": 1, "title": "League 1" },
-    { "id": 2, "title": "League 2" },
-    { "id": 3, "title": "League 3" }
+    { "id": 1, "title": "League 1", "entryLimit": 2 },
+    { "id": 2, "title": "League 2", "entryLimit": 2 },
+    { "id": 3, "title": "League 3", "entryLimit": 1 }
   ],
   "teams": [
     { "id": 1, "name": "Team 1", "leagueID": 1, "entries": 1, "picks": [{"week1": "Los Angeles Rams", "survive": "yes"}, {"week2": "Los Angeles Chargers", "survive": "yes"}, {"week3": "", "survive": "tba"}, {"week4": "", "survive": "tba"}, {"week5": "", "survive": "tba"}, {"week6": "", "survive": "tba"}, {"week7": "", "survive": "tba"}, {"week8": "", "survive": "tba"}, {"week9": "", "survive": "tba"}, {"week10": "", "survive": "tba"}, {"week11": "", "survive": "tba"}, {"week12": "", "survive": "tba"}, {"week13": "", "survive": "tba"}, {"week14": "", "survive": "tba"}, {"week15": "", "survive": "tba"}, {"week16": "", "survive": "tba"}] },
