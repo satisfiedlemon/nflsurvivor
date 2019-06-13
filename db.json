@@ -29,22 +29,23 @@
          "name":"Team 1",
          "leagueID":1,
          "entries":1,
+         "survive":true,
          "picks":[  
             {  
                "week": 1,
                "pick":[
                  {
-                   "survive":true,
+                   "active":true,
                    "entry":1,
                    "team":"Los Angeles Rams"
                  },
                  {
-                   "survive":false,
+                   "active":false,
                    "entry":2,
                    "team":""
                  },
                  {
-                   "survive":false,
+                   "active":false,
                    "entry":3,
                    "team":""
                  }
@@ -54,17 +55,17 @@
                "week": 2,
                "pick":[
                  {
-                   "survive":true,
+                   "active":true,
                    "entry":1,
                    "team":"Chicago Bears"
                  },
                  {
-                   "survive":false,
+                   "active":false,
                    "entry":2,
                    "team":""
                  },
                  {
-                   "survive":false,
+                   "active":false,
                    "entry":3,
                    "team":""
                  }
@@ -78,17 +79,18 @@
          "name":"Team AA",
          "leagueID":1,
          "entries":2,
+         "survive":true,
          "picks":[  
             {  
                "week": 1,
                "pick":[
                  {
-                   "survive":true,
+                   "active":true,
                    "entry":1,
                    "team":"Denver Broncos"
                  },
                  {
-                   "survive":true,
+                   "active":true,
                    "entry":2,
                    "team":"Cleveland Browns"
                  },
@@ -103,12 +105,12 @@
                "week": 2,
                "pick":[
                  {
-                   "survive":false,
+                   "active":false,
                    "entry":1,
                    "team":""
                  },
                  {
-                   "survive":true,
+                   "active":true,
                    "entry":2,
                    "team":"Baltimore Ravens"
                  },
