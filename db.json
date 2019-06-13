@@ -124,5 +124,95 @@
          ]
       }
    ],
+   "nflTeams": [
+      {
+         "division":"AFC East",
+         "teams":[
+            {
+               "Buffalo Bills",
+               "Miami Dolphins",
+               "New England Patriots",
+               "New York Jets"
+            }
+         ]
+      },
+      {
+         "division":"NFC East",
+         "teams":[
+            {
+               "Dallas Cowboys",
+               "New York Giants",
+               "Philadelphia Eagles",
+               "Washington Redskins"
+            }
+         ]
+      },
+      {
+         "division":"AFC North",
+         "teams":[
+            {
+               "Baltimore Ravens",
+               "Cincinnati Bengals",
+               "Cleveland Browns",
+               "Pittsburgh Steelers"
+            }
+         ]
+      },
+      {
+         "division":"NFC North",
+         "teams":[
+            {
+               "Chicago Bears",
+               "Detroit Lions",
+               "Green Bay Packers",
+               "Minnesota Vikings"
+            }
+         ]
+      },
+      {
+         "division":"AFC South",
+         "teams":[
+            {
+               "Houston Texans",
+               "Indianapolis Colts",
+               "Jacksonville Jaguars",
+               "Tennessee Titans"
+            }
+         ]
+      },
+      {
+         "division":"NFC South",
+         "teams":[
+            {
+               "Atlanta Falcons",
+               "Carolina Panthers",
+               "New Orleans Saints",
+               "Tampa Bay Buccaneers"
+            }
+         ]
+      },
+      {
+         "division":"AFC West",
+         "teams":[
+            {
+               "Denver Broncos",
+               "Kansas City Chiefs",
+               "Los Angeles Chargers",
+               "Oakland Raiders"
+            }
+         ]
+      },
+      {
+         "division":"NFC West",
+         "teams":[
+            {
+               "Arizona Cardinals",
+               "Los Angeles Rams",
+               "San Francisco 49ers",
+               "Seattle Seahawks"
+            }
+         ]
+      }
+   ],
    "stats": []
 }
