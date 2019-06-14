@@ -198,5 +198,114 @@
          ]
       }
    ],
-   "stats": []
+   "results":[
+      {
+         "leagueID":1,
+         "team":[
+            {
+               "teamID":0,
+               "weeks":[
+                  {
+                     "week1":[
+                        {
+                           "entry1":[
+                              {
+                                 "active":true,
+                                 "pick":"Los Angeles Rams"
+                              }
+                           ],
+                           "entry2":[
+                              {
+                                 "active":false,
+                                 "pick":""
+                              }
+                           ],
+                           "entry3":[
+                              {
+                                 "active":false,
+                                 "pick":""
+                              }
+                           ]
+                        }
+                     ],
+                     "week2":[
+                        {
+                           "entry1":[
+                              {
+                                 "active":true,
+                                 "pick":"Chicago Bears"
+                              }
+                           ],
+                           "entry2":[
+                              {
+                                 "active":false,
+                                 "pick":""
+                              }
+                           ],
+                           "entry3":[
+                              {
+                                 "active":false,
+                                 "pick":""
+                              }
+                           ]
+                        }
+                     ],
+                  }
+               ]
+            },
+            {
+               "teamID":1,
+               "weeks":[
+                  {
+                     "week1":[
+                        {
+                           "entry1":[
+                              {
+                                 "active":true,
+                                 "pick":"New England Patriots"
+                              }
+                           ],
+                           "entry2":[
+                              {
+                                 "active":true,
+                                 "pick":"Cleveland Browns"
+                              }
+                           ],
+                           "entry3":[
+                              {
+                                 "active":false,
+                                 "pick":""
+                              }
+                           ],
+                        }
+                     ],
+                     "week2":[
+                        {
+                           "entry1":[
+                              {
+                                 "active":false,
+                                 "pick":""
+                              }
+                           ],
+                           "entry2":[
+                              {
+                                 "active":true,
+                                 "pick":"Baltimore Ravens"
+                              }
+                           ],
+                           "entry3":[
+                              {
+                                 "active":false,
+                                 "pick":""
+                              }
+                           ],
+                        }
+                     ],
+                  }
+               ]
+            },
+         ]
+      }
+   ],
+   "stats":[]
 }
